@@ -12,14 +12,14 @@ Built with Flutter, Kryyptonium is a captivating news app that seamlessly integr
 > Unified Modeling Language (UML) diagrams for streamlined architecture.
 
 # Getting Started-
-1)Clone the Repository
+## 1)Clone the Repository
 
 git clone https://github.com/akscpp/Kryyptonium.git
 
-2)Open in Android Studio
+## 2)Open in Android Studio
 Open the project in Android Studio to explore and build upon the source code.
 
-3)Run on Emulator or Physical Device
+## 3)Run on Emulator or Physical Device
 Run the app on your preferred emulator or a physical device to experience the news and cryptocurrency tracking features.
 
 ## Project Structure-
@@ -36,32 +36,3 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 # Happy coding with Kryyptonium! 🚀
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-# kryyptonium
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
