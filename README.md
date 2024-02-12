@@ -6,10 +6,10 @@
 Built with Flutter, Kryyptonium is a captivating news app that seamlessly integrates breaking headlines with real-time updates on popular digital currencies. The sleek interface offers a dynamic experience, keeping users informed about news and crypto trends seamlessly. Backed by meticulous planning, Software Requirements Specification (SRS) documents outline functionality, and Unified Modeling Language (UML) diagrams provide a visual blueprint for streamlined architecture. It's not just an app; it's a compact Flutter creation that takes you on a thrilling journey through news and cryptocurrency trends.
 
 # Key Features-
-> Real-time updates on breaking news and popular digital currencies.
-> Dynamic and sleek user interface for an engaging experience.
-> Meticulously planned with Software Requirements Specification (SRS) documents.
-> Unified Modeling Language (UML) diagrams for streamlined architecture.
+- Real-time updates on breaking news and popular digital currencies.
+- Dynamic and sleek user interface for an engaging experience.
+- Meticulously planned with Software Requirements Specification (SRS) documents.
+- Unified Modeling Language (UML) diagrams for streamlined architecture.
 
 # Getting Started-
 ## 1)Clone the Repository
@@ -25,8 +25,8 @@ Run the app on your preferred emulator or a physical device to experience the ne
 ## Project Structure-
 The project structure is organized for clarity and ease of development. Key directories include:
 
-lib/: Contains the Flutter Dart code for the application.
-assets/: Houses any static assets used in the app.
+- lib/: Contains the Flutter Dart code for the application.
+- assets/: Houses any static assets used in the app.
 
 ## Contributing-
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements. Make sure to adhere to the project's coding standards.
